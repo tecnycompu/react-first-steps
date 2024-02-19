@@ -18,13 +18,13 @@ function Perfil(props){
         </div>
         {/* Agregamos los botones para seguir en LinkedIn, YouTube y Twitter */}
         <button onClick={() => window.open(props.linkedin, '_blank')}>
-            Seguir en LinkedIn
+            Seguir en Instagram
         </button>
         <button onClick={() => window.open(props.youtube, '_blank')}>
             Seguir en YouTube
         </button>
         <button onClick={() => window.open(props.twitter, '_blank')}>
-            Seguir en Twitter
+            Seguir en Twitch
         </button>
     </div>
     );

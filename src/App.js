@@ -25,7 +25,7 @@ function App() {
         cargo='Ingeniero de Software'
         empresa='facundo'
         perfil='Es un Youtuber español, Tecnología, informática, programación. La verdad de Internet en un solo canal.'
-        linkedin='https://www.linkedin.com/in/braismoure/'
+        linkedin='https://www.instagram.com/facmartoni/'
         youtube='https://www.youtube.com/@tigremartoni'
         twitter='https://www.twitch.tv/facmartoni'
       />
