@@ -19,26 +19,26 @@ function App() {
         twitter='https://www.linkedin.com/in/braismoure/'
       />
       <Perfil 
-        nombre='Brais Moure'
+        nombre='Facundo'
         pais='España'
-        imagen='brais'
+        imagen='facundo'
         cargo='Ingeniero de Software'
-        empresa='MoureDev'
+        empresa='facundo'
         perfil='Es un Youtuber español, es el fundador de la empresa de desarrollo de software MoureDev'
         linkedin='https://www.linkedin.com/in/braismoure/'
-        youtube='https://www.linkedin.com/in/braismoure/'
-        twitter='https://www.linkedin.com/in/braismoure/'
+        youtube='https://www.youtube.com/@tigremartoni'
+        twitter='https://www.twitch.tv/facmartoni'
       />
       <Perfil 
-        nombre='Brais Moure'
-        pais='España'
-        imagen='brais'
+        nombre='MiduDev'
+        pais='Barcelona'
+        imagen='minudev'
         cargo='Ingeniero de Software'
-        empresa='MoureDev'
-        perfil='Es un Youtuber español, es el fundador de la empresa de desarrollo de software MoureDev'
-        linkedin='https://www.linkedin.com/in/braismoure/'
-        youtube='https://www.linkedin.com/in/braismoure/'
-        twitter='https://www.linkedin.com/in/braismoure/'
+        empresa='minudev'
+        perfil='Es un Youtuber español, es el fundador de la empresa de desarrollo de software Minudev, javascript, react, css, html, web y frontend'
+        linkedin='https://es.linkedin.com/company/midudev'
+        youtube='https://www.youtube.com/c/midudev'
+        twitter='https://twitter.com/midudev?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'
       />
 
      </div>
