@@ -24,7 +24,7 @@ function App() {
         imagen='facundo'
         cargo='Ingeniero de Software'
         empresa='facundo'
-        perfil='Es un Youtuber español, es el fundador de la empresa de desarrollo de software MoureDev'
+        perfil='Es un Youtuber español, Tecnología, informática, programación. La verdad de Internet en un solo canal.'
         linkedin='https://www.linkedin.com/in/braismoure/'
         youtube='https://www.youtube.com/@tigremartoni'
         twitter='https://www.twitch.tv/facmartoni'
