@@ -10,12 +10,22 @@ function Perfil(props){
         <div className='contenedor-texto-perfil'>
             <p className='nombre-perfil'>
                <strong>{props.nombre}</strong> en {props.pais}
-            </p>        
+            </p>
         <p className='cargo-perfil'>
             {props.cargo} en <strong>{props.empresa}</strong>
         </p>
         <p className='texto-perfil'>"{props.perfil}" </p>
         </div>
+        {/* Agregamos los botones para seguir en LinkedIn, YouTube y Twitter */}
+        <button onClick={() => window.open(props.linkedin, '_blank')}>
+            Seguir en LinkedIn
+        </button>
+        <button onClick={() => window.open(props.youtube, '_blank')}>
+            Seguir en YouTube
+        </button>
+        <button onClick={() => window.open(props.twitter, '_blank')}>
+            Seguir en Twitter
+        </button>
     </div>
     );
 }
